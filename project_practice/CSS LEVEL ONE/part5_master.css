@@ -1,0 +1,13 @@
+/* general */
+li{
+    color: cadetblue; 
+}
+/* hierarchy */
+
+.topitems{
+   color: chocolate;
+}
+
+#two{
+    border: 3px solid darkolivegreen;
+}

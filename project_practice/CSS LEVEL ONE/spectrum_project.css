@@ -1,0 +1,35 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+.art{
+    margin: auto;
+}
+td{
+    
+    height: 300px;
+    width: 150px;
+    border: 6px solid white;
+}
+    	
+#one{
+    background-color:#ffbf00 ;
+}
+#two{
+    background-color: #ffff00;
+}
+#three{
+    background-color:#ff99ff ;
+}
+#four{
+    background-color:#ccffff ;
+}
+    	
+#five{
+    background-color:#009999;
+}
+        
+        
+       
+                    

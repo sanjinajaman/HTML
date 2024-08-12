@@ -1,0 +1,33 @@
+.firstdiv{
+    color: aquamarine;
+}
+
+.seconddiv{
+    color: chartreuse;
+}
+
+#singledout{
+ color:goldenrod;
+ text-decoration: line-through;
+}
+
+/* *{
+    color:brown;
+} */
+h3+ul{
+    border: 3px  double plum ;
+}
+
+li a{
+    color: darkcyan;
+}
+/* 
+ li a[href="https://www.w3schools.com/"]{
+    color: coral;
+    border: 5px thin olivedrab;
+}  */
+ li a[href="https://www.programiz.com/"]{
+
+    color: blue;
+    border: 5px solid orange;
+} 
